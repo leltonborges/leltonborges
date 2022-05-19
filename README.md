@@ -40,4 +40,4 @@
 
   ![Snake animation](https://github.com/leltonborges/leltonborges/blob/output/github-contribution-grid-snake.svg)
 </div>
-<!--   <p align="right"> <img src="https://komarev.com/ghpvc/?username=leltonborges&label=Profile%20views&color=0e75b6&style=plastic)" alt="leltonborges" /> </p> -->
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=leltonborges&label=Profile%20views&color=0e75b6&style=plastic)" alt="leltonborges" /> </p>
